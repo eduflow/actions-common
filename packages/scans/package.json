@@ -1,6 +1,6 @@
 {
   "name": "@peergrade/actions-common-scans",
-  "version": "0.2.0",
+  "version": "0.2.0-next.1",
   "description": "ZAP scan common code",
   "main": "src/index.js",
   "homepage": "https://github.com/zaproxy/actions-common/tree/master/packages/scans",
