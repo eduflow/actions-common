@@ -1,5 +1,5 @@
 {
-  "name": "@zaproxy/actions-common-scans",
+  "name": "@peergrade/actions-common-scans",
   "version": "0.2.0",
   "description": "ZAP scan common code",
   "main": "src/index.js",
